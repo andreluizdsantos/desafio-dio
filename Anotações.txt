@@ -1,0 +1,8 @@
+Comandos basicos GIT
+
+# clonar um repositório: git clone <Link>
+# iniciar repositório: git init
+# adicionar alterações: git add .
+# gerar commit: git commit -m "Descrição do Commit"
+# enviar conteudo para o repositório GitHub: git push origin main
+# baixar conteudo do repositório GitHub: git pull
