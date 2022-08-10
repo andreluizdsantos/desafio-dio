@@ -1,5 +1,5 @@
 # Desafios de Projeto DIO
-Repositório desafios de Projeto DIO
+Repositório desafios de Projeto DIO.me
 
 - [x] Desafio DIO.me Infraestrutura como Código
 
