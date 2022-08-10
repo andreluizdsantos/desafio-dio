@@ -1,7 +1,7 @@
 # Desafio de Projeto DIO
 Repositório desafio de Projeto DIO
 
-[x] Desafio DIO.me Infraestrutura como Código
+ [x] Desafio DIO.me Infraestrutura como Código
 
 ## Links Úteis:
 [DIO](https://web.dio.me/play)
