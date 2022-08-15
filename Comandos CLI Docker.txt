@@ -1,11 +1,11 @@
-docker build          Crie uma imagem a partir de um Dockerfile
-docker images		      Liste imagens no host do Docker
+docker build		Crie uma imagem a partir de um Dockerfile
+docker images		Liste imagens no host do Docker
 docker container run	Execute uma imagem
-docker ps		          Liste contêiners em execução
-docker exec		        Execute um comando em um contêiner
-docker stop		        Interrompa um contêiner em execução
-docker start		      Inicie um contêiner
-decker logs		        Visualize a saída do log de contêiner
-docker tag		        Marque uma imagem
-docker push		        Envie a imgem para um tegistro
-docker inspect		    Inspecione informações do contêiner
+docker ps		Liste contêiners em execução
+docker exec		Execute um comando em um contêiner
+docker stop		Interrompa um contêiner em execução
+docker start		Inicie um contêiner
+decker logs		Visualize a saída do log de contêiner
+docker tag		Marque uma imagem
+docker push		Envie a imgem para um tegistro
+docker inspect		Inspecione informações do contêiner
